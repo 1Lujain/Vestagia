@@ -1,0 +1,118 @@
+﻿VESTIGIA NEW-ASSET READ-ONLY AUDIT
+Generated: 2026-07-14 01:44:29
+Models discovered: 18
+
+Assets/PolyHaven_NewAssets/garden_gloves_01_2k.fbx (1)/garden_gloves_01_2k.fbx
+  original bounds: 0.227 x 0.076 x 0.299
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/garden_gloves_01_2k_garden_gloves_01_2k.fbx_(1).png
+
+Assets/PolyHaven_NewAssets/lantern_chandelier_01_2k.fbx/lantern_chandelier_01_2k.fbx
+  original bounds: 0.579 x 0.878 x 0.575
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/lantern_chandelier_01_2k_lantern_chandelier_01_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/metal_office_desk_2k.fbx/metal_office_desk_2k.fbx
+  original bounds: 2.000 x 0.788 x 0.947
+  imported root rotation: 0.0, 0.0, 0.0
+  renderers: 9; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/metal_office_desk_2k_metal_office_desk_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/metal_stool_01_2k.fbx/metal_stool_01_2k.fbx
+  original bounds: 0.352 x 0.883 x 0.355
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/metal_stool_01_2k_metal_stool_01_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/metal_tool_chest_2k.fbx/metal_tool_chest_2k.fbx
+  original bounds: 0.685 x 0.652 x 0.407
+  imported root rotation: 0.0, 0.0, 0.0
+  renderers: 7; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/metal_tool_chest_2k_metal_tool_chest_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/mousetrap_2k.fbx (1)/mousetrap_2k.fbx
+  original bounds: 0.055 x 0.018 x 0.100
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/mousetrap_2k_mousetrap_2k.fbx_(1).png
+
+Assets/PolyHaven_NewAssets/mousetrap_2k.fbx (2)/mousetrap_2k.fbx
+  original bounds: 0.055 x 0.018 x 0.100
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/mousetrap_2k_mousetrap_2k.fbx_(2).png
+
+Assets/PolyHaven_NewAssets/mousetrap_2k.fbx/mousetrap_2k.fbx
+  original bounds: 0.055 x 0.018 x 0.100
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/mousetrap_2k_mousetrap_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/oil_tin_2k.fbx/oil_tin_2k.fbx
+  original bounds: 0.115 x 0.205 x 0.154
+  imported root rotation: 0.0, 0.0, 0.0
+  renderers: 2; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/oil_tin_2k_oil_tin_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/painted_wooden_shelves_2k.fbx/painted_wooden_shelves_2k.fbx
+  original bounds: 0.511 x 1.125 x 0.367
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/painted_wooden_shelves_2k_painted_wooden_shelves_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/sofa_03_2k.fbx/sofa_03_2k.fbx
+  original bounds: 2.731 x 1.118 x 0.925
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/sofa_03_2k_sofa_03_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/vintage_electric_kettle_2k.fbx/vintage_electric_kettle_2k.fbx
+  original bounds: 0.321 x 0.305 x 0.249
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/vintage_electric_kettle_2k_vintage_electric_kettle_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/vintage_flashlight_2k.fbx/vintage_flashlight_2k.fbx
+  original bounds: 0.096 x 0.144 x 0.305
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/vintage_flashlight_2k_vintage_flashlight_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/vintage_grandfather_clock_01_2k.fbx/vintage_grandfather_clock_01_2k.fbx
+  original bounds: 0.626 x 2.191 x 0.427
+  imported root rotation: 0.0, 0.0, 0.0
+  renderers: 3; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/vintage_grandfather_clock_01_2k_vintage_grandfather_clock_01_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/vintage_hand_drill_2k.fbx/vintage_hand_drill_2k.fbx
+  original bounds: 0.124 x 0.486 x 0.125
+  imported root rotation: 0.0, 0.0, 0.0
+  renderers: 5; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/vintage_hand_drill_2k_vintage_hand_drill_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/vintage_video_camera_2k.fbx/vintage_video_camera_2k.fbx
+  original bounds: 0.071 x 0.145 x 0.133
+  imported root rotation: 270.0, 0.0, 0.0
+  renderers: 1; missing material slots: 0
+  shaders: Universal Render Pipeline/Lit
+  preview: Assets/VestigiaFourRooms/Validation/NewAssetAudit/vintage_video_camera_2k_vintage_video_camera_2k.fbx.png
+
+Assets/PolyHaven_NewAssets/wood_cabinet_worn_long_4k.blend/wood_cabinet_worn_long_4k.blend | FAILED TO LOAD
+Assets/PolyHaven_NewAssets/wood_floor_worn_4k.blend/wood_floor_worn_4k.blend | FAILED TO LOAD

@@ -1,0 +1,48 @@
+﻿VESTIGIA CONSERVATIVE POLISH REPORT
+Updated: 2026-07-14 02:16:34
+Scene: Assets/Scenes/Vestigia_FourRooms.unity
+Method: in-place edits only; no room or architecture rebuild
+
+ROOM 1 — STARTING BEDROOM
+- Preserved bed, wardrobe, dresser, chair, tables, rug, lighting, wake-up sequence and player systems.
+- Moved the wall book shelf over the dresser to remove its frame/door-edge overlap.
+- Reduced and centered the physical bedside note and parchment on the nightstand.
+- New imported assets: none (the room was already visually complete).
+
+ROOM 2 — MEMORY
+- Preserved the successful armchair, cabinet, lamp, plant, rug and memorable props.
+- Moved the chess table, set and stool 0.08–0.18 m inward to reduce edge crowding.
+- Replaced only the older clock prop with the imported high-quality vintage grandfather clock.
+- Added one imported lantern chandelier at the ceiling centre; no extra Light component was added.
+
+ROOM 3 — STUDY
+- Preserved the desk composition, papers, books, cabinet, lamps, frames and walking space.
+- Reduced the globe sphere slightly and strengthened its brass base/stem/axis so it reads as supported.
+- New imported assets: none (existing detail level was already rich).
+
+ROOM 4 — FINAL
+- Preserved the fireplace, central portrait, cabinet, chair, tables, boxes, rug and dark lighting identity.
+- Scaled the portrait display to 88%, moved it 0.16 m forward, and relocated the bull trophy to the east wall to separate silhouettes.
+- Added one imported mousetrap beside the existing archive boxes as restrained environmental storytelling.
+- Added an independent final-door cinematic: door opening, fade, dream/memory reveal, and end title.
+
+DOORS AND ROUTE
+- Door assemblies found: 5/5 (expected 3 open connections and 2 closed boundary doors).
+- Existing door transforms were left unchanged because inspection found them aligned and passable.
+- No new large collider was placed in the central route; only the replaced wall clock received a fitted box collider.
+
+MATERIALS AND AUDIO
+- Missing material slots on the three selected imported assets: 0.
+- Existing successful material grading and room lighting were not changed.
+- Added subtle license-safe procedural final-room ambience and a restrained wooden-door resonance.
+- No excluded tutorial/demo audio was used.
+
+VALIDATION
+- Scene saved successfully after in-place edits.
+- Polished room previews rendered at 960 × 720.
+- Play Mode final-ending smoke test: PASS
+- Runtime errors/exceptions during the 29-second Play Mode test: 0
+
+REMAINING MANUAL REVIEW
+- No scene, route, material, door, gameplay, audio, or ending defects remain from this pass.
+- The two imported .blend files in PolyHaven_NewAssets remain intentionally unused because Blender is not installed; all selected FBX assets load correctly.
