@@ -1,0 +1,42 @@
+﻿VESTIGIA FOUR ROOMS — ASSET USAGE
+
+STRUCTURE / ALL ROOMS
+- Assets/7th Side/Modular Prison Asset Pack/Prefabs/Floors/Floor Tile.prefab
+- Assets/7th Side/Modular Prison Asset Pack/Prefabs/Floors/Double Sided Floor Tile.prefab
+- Assets/_3DStealthGame/Prefabs/Environment/Walls/Wall_Straight_A.prefab
+- Assets/_3DStealthGame/Prefabs/Environment/Walls/Wall_Corner_A.prefab
+- Assets/7th Side/Modular Prison Asset Pack/Prefabs/Doors/Doorway.prefab (contains Wood Door)
+- Compact 7.5 m rooms are fully over-materialed with generated URP Lit worn wallpaper, dark wood trim, and wood flooring.
+
+ROOM 1 — MAIN / START
+- PolyHaven: GothicBed, alarm_clock, brass_pot, fancy_picture_frame
+- _3DStealthGame environment only: Bedside_Table, Wardrobe, SmallTable_B, Rug_Diningroom, safe picture frames
+- Resources: chair_big_01 red tufted Victorian chair
+- Generated details: physical introduction note, book shelf, bedside lamp, wall sconce, warm mixed fill light
+
+ROOM 2 — MEMORY
+- PolyHaven: chinese_tea_table, chinese_cabinet, chess_set, alarm_clock, brass_pot, binder_notebook, fancy_picture_frame
+- _3DStealthGame environment only: Rug_Diningroom, grandfather Clock, safe picture frames
+- Resources: chair_big_01 and matching stool
+- Generated details: potted plant, warm table lamp, wall sconce, mixed fill light
+
+ROOM 3 — STUDY
+- PolyHaven: WoodenTable_01, WoodenTable_02, chinese_cabinet, binder_notebooks, alarm_clock, treasure_chest, cardboard_box, brass_pot, fancy_picture_frame
+- _3DStealthGame environment only: Rug_Diningroom, Candlestick, safe picture frames
+- Resources: matching red upholstered stool
+- Generated details: papers, antique globe, book shelf, green banker desk lamp, wall sconce, warm mixed fill light
+
+ROOM 4 — FINAL
+- PolyHaven: treasure_chest, cardboard_boxes, brass_pot, bull_head, binder_notebook, fancy_picture_frame
+- _3DStealthGame environment only: Fireplace, Wardrobe, SmallTable_A/B, Candlestick, Rug_Diningroom, safe/ghost picture frames
+- Resources: chair_big_01 red tufted Victorian chair
+- Generated details: central haunted portrait display, puzzle pedestal, wall sconce, and darker mixed lighting
+
+OPENING
+- Assets/Characters/Ch22_nonPBR.fbx female body, existing Main Camera, existing InputSystem_Actions
+- TextMeshPro title, reusable physical-note reader, and camera-only wake fallback because no suitable wake animation existed
+
+EXPLICITLY NOT USED
+- No _3DStealthGame Tutorial_Demo, player, controller, audio, animation, character, enemy, monster, key, weapon, or sample gameplay content.
+- No General/Light prefab (it contains audio and a missing script reference).
+- No doll was added because no appropriate imported doll asset exists.

@@ -1,0 +1,12 @@
+﻿VESTIGIA FOUR ROOMS VALIDATION
+Scene: Assets/Scenes/Vestigia_FourRooms.unity
+Generated: 2026-07-14 00:10:57
+Room roots: 4
+Doorway assemblies: 5 (3 open inter-room, 2 closed boundary doors)
+Non-trigger colliders: 265
+Renderers: 562
+Lights: 18
+Capsule walkthrough proxy: PASS
+Errors: 0
+Warnings: 0
+RESULT: STRUCTURAL AND PLAYER-PRESENCE VALIDATION PASSED
